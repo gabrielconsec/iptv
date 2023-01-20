@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Record" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Record" group-title="Brazil",Record
+https://stmv1.voxtvhd.com.br/suzukytv/suzukytv/chunklist_w2032763879.m3u8
+#EXTINF:-1 tvg-name="Sbt" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="SBT" group-title="Brazil",SBT
+https://stmv1.srvif.com/cineplaytv1/cineplaytv1/chunklist_w770996619.m3u8
+#EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="COMBrasil.br" group-title="Brazil",COM Brasil
+https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
+#EXTINF:-1 tvg-name="Discovery turbo" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Discovery Turbo" group-title="Brazil",Discovery Turbo
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1880685816.m3u8
+#EXTINF:-1 tvg-name="Tnt sports" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Tnt sports" group-title="Brazil",Tnt sports
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="Tnt sports 2" tvg-logo="hhttps://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Tnt sports2" group-title="Brazil",Tnt sports 2
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-name="New Sports" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="New sports" group-title="Brazil",New sports
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/chunklist_w803140260.m3u8
+#EXTINF:-1 tvg-name="Web tv cine" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Web tv cine" group-title="Brazil",Webtvcine
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1577754923.m3u8
+#EXTINF:-1 tvg-name="Web xtreme" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Web xtreme" group-title="Brazil",Web xtreme
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w427748385.m3u8
+#EXTINF:-1 tvg-name="Web classicos" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Web classicos" group-title="Brazil",Webclassicos
+https://tv01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1440534477.m3u8
+#EXTINF:-1 tvg-name="Lass TV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="" group-title="Brazil",
+https://tv02.zas.media:1936/lasstv/lasstv/chunklist_w1364702486.m3u8
+#EXTINF:-1 tvg-name="Blits tv" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Blits tv" group-title="Brazil",Blitz tv
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/chunklist_w1486946454.m3u8
+#EXTINF:-1 tvg-name="Hits tv" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Hits tv" group-title="Brazil",Hits tv
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1262624811.m3u8
+#EXTINF:-1 tvg-name="Runtime" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Runtime" group-title="Brazil",Runtime
+https://stream.ads.ottera.tv/cl/5fZtnzB7TILHjRzm-Kfko/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Runtime ação" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Runtime Ação" group-title="Brazil",Runtime ação
+https://stream.ads.ottera.tv/cl/Lnrz2GeoDCtsxVnbxxEwW/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Runtime comedia" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Runtime comedia" group-title="Brazil",Runtime comedia
+https://stream.ads.ottera.tv/cl/e79t8zyBs8fyUJGkJIKqe/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Chips" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Chips" group-title="Brazil",Chips
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1768528061.m3u8
+#EXTINF:-1 tvg-name="As Panteras" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="As Panteras" group-title="Brazil",As Panteras
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w847656729.m3u8
+#EXTINF:-1 tvg-name="Agente 86" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Agente 86" group-title="Brazil",Agente 86
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist_w1304540974.m3u8
+#EXTINF:-1 tvg-name="Star Trek" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Star Trek" group-title="Brazil",Star Trek
+https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w972387317.m3u8
+#EXTINF:-1 tvg-name="Os 3 Patetas" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Os 3 patetas" group-title="Brazil",Os 3 patetas
+https://stmv1.srvif.com/tvserie6/tvserie6/chunklist_w907993893.m3u8
+#EXTINF:-1 tvg-name="Cine Life" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Cine Life" group-title="Brazil",Cine Life
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="SanJones" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Sanjones" group-title="Brazil",Tv Sanjones
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/chunklist_w1277226469.m3u8
+#EXTINF:-1 tvg-name="Tv loading" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Tv loading" group-title="Brazil",Tv loading
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1923823894.m3u8
+#EXTINF:-1 tvg-name="Nova Play" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Nova Play" group-title="Brazil",Tv nova play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w811162465.m3u8
+#EXTINF:-1 tvg-name="Anitv" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="AniTV" group-title="Brazil",AniTV
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Retro Cartoon" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Retro Cartoon" group-title="Brazil",Retro cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w65363305.m3u8
+#EXTINF:-1 tvg-name="Classic TV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Classic TV" group-title="Brazil",Classic TV
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="Cinepix" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Cinepix" group-title="Brazil",Cinepix
+https://stmv1.srvif.com/channel1/channel1/chunklist_w878594666.m3u8
+#EXTINF:-1 tvg-name="Vila TV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Vila TV" group-title="Brazil",Vila TV
+https://596639ebdd89b.streamlock.net/8072/8072/chunklist_w1738232778.m3u8
+#EXTINF:-1 tvg-name="Virtual TV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Virtual TV" group-title="Brazil",Virtual TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w908564318.m3u8
+#EXTINF:-1 tvg-name="Tv Gazeta" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Tv Gazeta" group-title="Brazil",Tv Gazeta
+https://stream-03.nyc.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v3ltxtBCIrc5MJP6kt4E62Gls5pVezriS9so1WXhWQKh)/dm/3/x89qors/d/live-4.m3u8#cell=lnyc
+#EXTINF:-1 tvg-name="Tv Cultura" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Tv Cultura" group-title="Brazil",Tv Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1373879268.m3u8
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Anime TV" group-title="Brazil",Anime TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w768605536.m3u8 
+#EXTINF:-1 tvg-name="Murilo TV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Murilo TV" group-title="Brazil",Murilo TV
+https://tv02.zas.media:1936/murilotv/murilotv/chunklist_w301634243.m3u8
+#EXTINF:-1 tvg-name="GLN Filmes" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Gln " group-title="Brazil",GLN Filmes
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w161361779.m3u8
+#EXTINF:-1 tvg-name="VintageTV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="VintageTV" group-title="Brazil",Vintage TV
+https://stmv1.srvif.com/webvintage/webvintage/chunklist_w2126940724.m3u8
+#EXTINF:-1 tvg-name="Tv Teen" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Tv Teen" group-title="Brazil",Tv teen
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
+#EXTINF:-1 tvg-name="Ghost TV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Ghost TV" group-title="Brazil",Ghost TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w826171756.m3u8
+#EXTINF:-1 tvg-name="SPTV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="SPTV" group-title="Brazil",Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/chunklist_w1453976241.m3u8
+#EXTINF:-1 tvg-name="Cindie Lite" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Cindie Lite" group-title="Brazil",Cindie Lite
+https://stream.ads.ottera.tv/cl/VhjN5ofYxLSDF5lw15VOn/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="TV Recordacoes" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Tv Recordacoes" group-title="Brazil",Tv Recordacoes
+https://srv4.zcast.com.br/tvrecordacoeswebce/tvrecordacoeswebce/chunklist_w1291384004.m3u8
+#EXTINF:-1 tvg-name="Tela Viva" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Tela Viva" group-title="Brazil",Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist_w43392475.m3u8
+#EXTINF:-1 tvg-name="Oriundi TV" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Oriundi" group-title="Brazil",Oriundi TV
+https://stmv5.samcast.com.br/oriunditv/oriunditv/chunklist_w753081900.m3u8
+#EXTINF:-1 tvg-name="Fronteiras Filmes" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Fronteiras Filmes" group-title="Brazil",Fronteira Filmes
+https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist_w1350523617.m3u8
+#EXTINF:-1 tvg-name="TV Japi" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="TV Japi" group-title="Brazil",TV Japi
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w2104536323.m3u8
+#EXTINF:-1 tvg-name="TV Acarati" tvg-logo="hhttps://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="TV Aracati" group-title="Brazil",TV Aracati
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV Carioca" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="TV Carioca" group-title="Brazil",TV Carioca
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w121764464.m3u8
+#EXTINF:-1 tvg-name="TV Canal 29" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Canal 29" group-title="Brazil",Canal 29
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1567400576.m3u8
+#EXTINF:-1 tvg-name="SIC" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="SIC" group-title="Brazil",SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 tvg-name="Motorvision" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Motorvision" group-title="Brazil",Motorvision
+https://stream.ads.ottera.tv/cl/jUEQdn_pXpuuPcxKvDRQf/1280x720_3071200_0_f.m3u8
+#EXTINF:-1 tvg-name="Conect" tvg-logo="https://st2.depositphotos.com/8065014/12038/v/950/depositphotos_120380202-stock-illustration-tv-box-iptv-icon.jpg" tvg-id="Conect" group-title="Brazil",Conect
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
